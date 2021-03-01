@@ -21,20 +21,20 @@ server start at http://localhost:3000
 
 <h2>Login Page</h2>
 <p align="center">
-     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/loginpage.png" width="350px" />
+     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/loginpage.png" width="500px" />
 </p>
 
 <h2>Spotify acc with api<h2>
 <p align ="center">
-     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/spotifyaccount.png" width="350px" />
+     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/spotifyaccount.png" width="500px" />
 </p>     
 
 <h2>Dashboard page<h2>
 <p align="center">
-     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/dashboard.png" width="350px" />
+     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/dashboard.png" width="500px" />
 </p>
 
 <h2>Album Search Page<h2>
 <p align="center">
-     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/albumsearch.png" width="350px" />
+     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/albumsearch.png" width="500px" />
 </p>
