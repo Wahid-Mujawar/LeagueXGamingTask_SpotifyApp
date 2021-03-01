@@ -1,0 +1,182 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+   }
+
+   * button  {
+    margin-left: 70px;
+   }
+
+   .btn .btn-info {
+     margin-left: 500px;
+   }
+   * label {
+    margin-left: 70px;
+   }
+
+   * .errorMsg {
+    margin-left: 70px;
+   }
+   
+   * .form-control {
+    margin-left: 70px;
+    border: 2px solid black;
+   }
+
+   .btn-info {
+     background-color: brown;
+     border-color: #050200;
+     overflow: auto;
+   }
+
+   .btn-info:focus {
+     box-shadow: none;
+   }
+
+   body {
+     margin-top: 0px;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     background: #c7d140;
+     font-size: 20px;
+     letter-spacing: 1px;
+     color: #050200;
+    
+   }
+
+   .btn {
+     letter-spacing: 0.5px;
+   }
+   
+   .login {
+     flex-direction: column;
+     justify-content: center;
+     display: flex;
+     align-items: center;
+   }
+   
+   .login .btn {
+     margin-right: 10px;
+     font-size: 1.2rem;
+   }
+   
+   .main {
+     width: 80%;
+     margin: 1rem auto;
+   }
+   
+  .form-control {
+     font-size: 1.2rem;
+     width: 50%;
+   }
+
+   div .button-logout {
+     margin-top: -220px;
+   }
+   
+   .main-heading {
+     text-decoration: underline;
+     margin: 2rem 0;
+     margin-left: 70px;
+     font-style: normal;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   
+   .hide {
+     display: none;
+   }
+   
+   .active {
+     border: 2px solid #566273;
+   }
+   .active {
+    color: #06524a;
+  }
+   
+   .btn:hover {
+     background-color: #06524a;
+   }
+
+   .message {
+     position: relative;
+     font-size: 150%;
+     top: 50%;
+     left: 50%;
+     transform: translateX(-10%);
+     color: #fff;
+     letter-spacing: 1px;
+   }
+   
+   .errorMsg {
+     color: #f52512;
+     background: #fcfdf9;
+     padding: 0.5rem;
+     margin-top: 0.5rem;
+     width: 500px;
+     border: 1px solid black;
+   }
+   
+   .button-search {
+     margin: 1rem 0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-left: 200px;
+   }
+   
+   .button-search .btn {
+     background-color: brown;
+     font-size: 1.2rem;
+     border: 1px solid #050200;
+     font-weight: bold;
+     color: #ffffff;
+     margin-left: -150px;
+    }
+   
+   .button-logout {
+     margin-left: 900px;
+     
+   }
+
+   .button-search .btn:focus {
+     box-shadow: none;
+   }
+   
+   .albums {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: flex-end;
+   }
+   
+   .card {
+     margin: 1rem;
+     box-shadow: 0 2px 7px 3px #38393a;
+   }
+   
+   .card .card-image-link {
+     padding: 1rem;
+     text-align: center;
+   }
+   
+   .card img {
+     max-width: 250px;
+     height: 250px;
+   }
+   
+   @media screen and (max-width: 400px) {
+     .search-buttons {
+       flex-direction: column;
+     }
+     .search-buttons .btn {
+       margin: 0.6rem;
+     }
+     .card img {
+       height: auto;
+      }
+      
+     .main-heading {
+       text-align: center;
+     }
+   }
