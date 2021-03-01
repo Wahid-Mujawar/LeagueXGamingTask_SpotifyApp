@@ -25,7 +25,7 @@ server start at http://localhost:3000
      <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/loginpage.png" width="500px" />
 </p>
 
-<h2>Spotify acc with api<h2>
+<h2>Spotify account<h2>
 <p align ="center">
      <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/spotifyaccount.png" width="500px" />
 </p>     
