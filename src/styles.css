@@ -4,6 +4,17 @@
      box-sizing: border-box;
    }
 
+   body {
+    margin-top: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #c7d140;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #050200;
+   
+  }
    * button  {
     margin-left: 70px;
    }
@@ -14,6 +25,7 @@
    * label {
     margin-left: 70px;
    }
+   
 
    * .errorMsg {
     margin-left: 70px;
@@ -32,18 +44,6 @@
 
    .btn-info:focus {
      box-shadow: none;
-   }
-
-   body {
-     margin-top: 0px;
-     padding: 0;
-     box-sizing: border-box;
-     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-     background: #c7d140;
-     font-size: 20px;
-     letter-spacing: 1px;
-     color: #050200;
-    
    }
 
    .btn {
@@ -139,7 +139,7 @@
      margin-left: 900px;
      
    }
-
+   
    .button-search .btn:focus {
      box-shadow: none;
    }

@@ -5,11 +5,12 @@ import {
 } from '../actions/result';
 
 import { connect } from 'react-redux';
-import { Redirect } from 'react-router-dom';
-import SearchResult from './SearchResult';
 import SearchForm from './SearchForm';
 import Header from './Header';
 import { Button } from 'react-bootstrap';
+import { Redirect } from 'react-router-dom';
+import SearchResult from './SearchResult';
+
 
 const Dashboard = (props) => {
   const [selectedCategory, setSelectedCategory] = useState('albums');
