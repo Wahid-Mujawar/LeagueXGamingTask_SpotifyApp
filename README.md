@@ -42,5 +42,5 @@ server start at http://localhost:3000
 
 <h2>Playing The Song<h2>
 <p align="center">
-     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/playingsong.png" width="500px" />
+     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/playingsong.png" width="700px" />
 </p>
