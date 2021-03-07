@@ -136,7 +136,8 @@
     }
    
    .button-logout {
-     margin-left: 900px;
+     margin-left: 950px;
+     position: relative;
      
    }
    

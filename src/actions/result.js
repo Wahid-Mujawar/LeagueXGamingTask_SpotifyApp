@@ -25,6 +25,7 @@ import {
                const result = await get(API_URL);
                console.log(result);
                const { albums } = result;
+               (setAlbums(albums));
                dispatch(setAlbums(albums));
           
           return ;
@@ -33,4 +34,16 @@ import {
           }
           };
      };
+
+     export const initiateGetResultSong =  async(url) => {
+          console.log("initiateGetResultSong in result",url)
+            try {
+              const API_URL = url
+              const result = await get(API_URL);
+              console.log("",result);
+              return result;
+            } catch (error) {
+              console.log('error', error);
+            }
+        };
      

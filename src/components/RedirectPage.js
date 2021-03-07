@@ -11,7 +11,7 @@ export default class RedirectPage extends React.Component {
       if (_.isEmpty(location.hash)) {
         return history.push('/dashboard');
       }
-      
+
       const access_token = getParamValues(location.hash);
       const expiryTime = new Date().getTime() + access_token.expires_in * 1000;
       localStorage.setItem('params', JSON.stringify(access_token));
