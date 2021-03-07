@@ -33,7 +33,7 @@ import {
           console.log('error', error);
           }
           };
-     };
+};
 
      export const initiateGetResultSong =  async(url) => {
           console.log("initiateGetResultSong in result",url)
