@@ -39,3 +39,8 @@ server start at http://localhost:3000
 <p align="center">
      <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/albumsearch.png" width="500px" />
 </p>
+
+<h2>Song Play<h2>
+<p align="center">
+     <img src="https://github.com/Wahid-Mujawar/LeagueXGamingTask_SpotifyApp/blob/master/src/snaps/songplay.png" width="500px" />
+</p>
